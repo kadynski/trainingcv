@@ -1,0 +1,35 @@
+body {
+  background-color: #cadefc;
+}
+hr {
+
+ border-style: none ;
+ border-top-style: dotted;
+ width: 8% ;
+ border-color: #cca8e9 ;
+ border-width: 6px ;
+}
+h1 {
+  color: #03506f;
+}
+h2 {
+  color: #605887;
+}
+a:link {
+  color: black ;
+  text-decoration: underline ;
+}
+a:hover {
+  font-size: 105% ;
+    transition: .1s;
+}
+
+#img400 {
+  max-height: 400px ;
+}
+#img800 {
+  max-height: 400px ;
+}
+#jordan {
+  max-height: 400px ;
+}
